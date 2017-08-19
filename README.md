@@ -187,7 +187,7 @@ Kako se prave industriski senzori, primeri.
 
 ### Aktuatori
 
-Tipovi motora, 
+Tipovi motora...
 
 ## Automatika
 

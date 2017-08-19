@@ -1,0 +1,47 @@
+\documentclass{book}
+
+\usepackage[utf8]{inputenc}
+\usepackage[serbian]{babel}
+\usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
+
+\def\dj{d\kern-0.4em\char"16\kern-0.1em}
+\def\Dj{\mbox{\raise0.3ex\hbox{-}\kern-0.4em D}}
+
+\begin{document}
+	\tableofcontents
+	
+	\chapter{Matematika}
+		\input{mat/main.tex}	
+	
+	\chapter{Osnovi elektrotehnike}
+		\input{oet/main.tex}
+	
+	\chapter{Elektronika}
+		\input{ele/main.tex}
+	
+	\chapter{Digitalna elektronika}
+		\input{dele/main.tex}
+	
+	\chapter{Programiranje}
+		\input{prog/main.tex}
+	
+	\chapter{Obrada signala}
+		\input{os/main.tex}
+	
+	\chapter{Mikrokontroleri}
+		\input{mcu/main.tex}
+	
+	\chapter{Ma\v sinsko u\v cenje}
+		\input{ml/main.tex}
+	
+	\chapter{Senzori i aktuatori}
+		\input{sia/main.tex}
+	
+	\chapter{Automatika}
+		\input{auto/main.tex}
+	
+	\chapter{Dodatak}
+		\input{apx/main.tex}
+	
+\end{document}

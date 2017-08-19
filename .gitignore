@@ -1,0 +1,7 @@
+# izbaci sve fajlove koje LaTeX generise
+
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
