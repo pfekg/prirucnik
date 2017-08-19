@@ -149,7 +149,7 @@ Furierova transformacija, ask, fsk, psk, fft.
 
 ### Obrada slike
 
-Slika, histogram, binarizacije, filteri, erozija.
+Slika, histogram, binarizacije, filteri, erozija...
 
 ## Mikrokontroleri
 
